@@ -37,6 +37,7 @@ A software engineer living in the Silicon Valley, a place I dreamt about since m
 * I write poetry in Hindi.
 * I aim to read 12 books this year. Books I have already read so far:
 
+    * Outliers - Malcolm Gladwell
     * Man's Search for meaning - Viktor E. Frankl
     * Little Bets - Peter Sims
     * रश्मीरथी - श्री रामधारी सिंह दिनकर
