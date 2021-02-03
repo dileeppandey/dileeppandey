@@ -45,12 +45,14 @@ Books I have already read so far:
 
 
 Finished 9/12 Books in 2020.
-    * Outliers - Malcolm Gladwell
-    * Man's Search for meaning - Viktor E. Frankl
-    * Little Bets - Peter Sims
-    * रश्मीरथी - श्री रामधारी सिंह दिनकर
-    * Scion of Ikshvaku - Amish Tripathi
-    * Sita - Amish Tripathi
-    * Animal Farm - George Orwell
-    * Rich Dad Poor Dad - Robert T. Kiyosaki
-    * कुछ इश्क़ किया कुछ काम किया - पीयूष मिश्रा 
+<ol>
+  <li> Outliers - Malcolm Gladwell</li>
+  <li>Man's Search for meaning - Viktor E. Frankl</li>
+  <li>Little Bets - Peter Sims</li>
+  <li>रश्मीरथी - श्री रामधारी सिंह दिनकर</li>
+  <li>Scion of Ikshvaku - Amish Tripathi</li>
+  <li>Sita - Amish Tripathi</li>
+  <li>Animal Farm - George Orwell</li>
+  <li>Rich Dad Poor Dad - Robert T. Kiyosaki</li>
+  <li>कुछ इश्क़ किया कुछ काम किया - पीयूष मिश्रा </li>
+</ol>
