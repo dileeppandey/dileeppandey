@@ -35,8 +35,16 @@ A software engineer living in the Silicon Valley, a place I dreamt about since m
 #### ⚡ Fun fact:
 
 * I write poetry in Hindi.
-* I aim to read 12 books this year. Books I have already read so far:
+* I aim to read 12 books in year 2021. 
 
+Currently Reading:
+   * Sapiens: A Brief History of Humankind - Yuval Noah Harari
+
+Books I have already read so far:
+   * A Mind for Numbers - Barbara Oakley
+
+
+Finished 9/12 Books in 2020.
     * Outliers - Malcolm Gladwell
     * Man's Search for meaning - Viktor E. Frankl
     * Little Bets - Peter Sims
@@ -45,3 +53,4 @@ A software engineer living in the Silicon Valley, a place I dreamt about since m
     * Sita - Amish Tripathi
     * Animal Farm - George Orwell
     * Rich Dad Poor Dad - Robert T. Kiyosaki
+    * कुछ इश्क़ किया कुछ काम किया - पीयूष मिश्रा 
