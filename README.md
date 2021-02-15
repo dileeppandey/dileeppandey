@@ -38,9 +38,10 @@ A software engineer living in the Silicon Valley, a place I dreamt about since m
 * I aim to read 12 books in year 2021. 
 
 Currently Reading:
-   * Sapiens: A Brief History of Humankind - Yuval Noah Harari
-
+   * The Vital Question: Energy, Evolution, and the Origins of Complex Life - Nick Lane
+  
 Books I have already read so far:
+   * Sapiens: A Brief History of Humankind - Yuval Noah Harari
    * A Mind for Numbers - Barbara Oakley
 
 
