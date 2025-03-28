@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm [Dileep Pandey](https://dileeppandey.com)
+#### I'm Dileep Pandey.
 😄 Pronouns: he/him/his
 
 A problem solver, an empathetic leader with good product sense, and a coach, working in software industry for over six years now.
 
 Currently, I am a senior software engineer in the Experimentation team at GoDaddy. We enable internal product teams to leverage data backed approach to drive hypothesis formulation, delight customers through iterative product design by learning from online controlled experimentation.
-
-#### 🌱 I’m currently learning:
-* iOS Development
-* Distributed Systems
 
 #### 📫 How to reach me:
 <p align="left">
